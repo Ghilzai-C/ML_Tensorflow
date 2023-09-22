@@ -1,0 +1,5 @@
+print(X_train.shape)
+# print(X_train.dtype)
+# plt.imshow(X_train[578], cmap="binary")
+# plt.axis('off')
+# plt.show()
